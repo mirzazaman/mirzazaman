@@ -32,19 +32,12 @@
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
 [![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
-
-
 
 ## 📱 **MOBILE DEV**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
-
-<!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo] -->
-<!-- [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)][repo] -->
 
 ## 🍧 **DESIGN TOOLS**
 
@@ -56,6 +49,10 @@
 
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
+
+## 📅 **DATABASES**
+
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
