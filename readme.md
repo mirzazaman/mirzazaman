@@ -1,64 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=414&lines=I'm+Zaman%2C+A+Software+Developer)](https://git.io/typing-svg)
-<!-- https://readme-typing-svg.herokuapp.com/demo/  --- For changing typing effect in future use this link --> 
-## 🏆 **GITHUB TROPHY**
-
-![https://github.com/mirzazaman?tab=repositories](https://github-profile-trophy.vercel.app/?username=mirzazaman&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-
-## 🕸️ **WEB DEV**
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
-[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
-
-## 📱 **MOBILE DEV**
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
-
-## 🍧 **DESIGN TOOLS**
-
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")][repo]
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")][repo]
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
-
-## ⚙️ **BACKEND DEV**
-
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
-[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
-
-## 📅 **DATABASES**
-
-[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
-
-## 🎯 **PROGRAMMING LANGUAGES**
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-
-<!-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] -->
-## ☁️ **CLOUDS**
-
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
-[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][repo]
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
-
-## 📄 **CODE EDITOR & IDES**
-
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
+# Muhammad Zaman — AI Product Engineer
+ 
+I build production-grade AI-integrated products end-to-end — streaming LLM backends with FastAPI, real-time frontends with Next.js, and multi-tenant SaaS architecture that scales.
+ 
+Based in Faisalabad, Pakistan · Open to remote roles and contract work globally.
+ 
+---
+ 
+## What I build
+ 
+**AI & LLM Systems**
+Real-time AI chat and voice agents with streaming responses, conversation memory, and multi-session support. Context management, token accounting, and cost-per-tenant as a first-class concern.
+ 
+**Multi-tenant SaaS Platforms**
+Schema-per-tenant isolation, role-based access control, audit logging, and real-time dashboards. Built for teams that need predictable performance and clean permission boundaries as they scale.
+ 
+**Full-Stack Product Engineering**
+Next.js frontends, FastAPI backends, PostgreSQL and Redis data layers, WebSocket real-time features, and cross-platform mobile with React Native and Expo.
+ 
+---
+ 
+## Selected projects
+ 
+**[ai-agent-demo](https://github.com/mirzazaman/ai-agent-demo)**
+Streaming AI chat agent with context memory and multi-session support. FastAPI · Next.js · OpenAI · PostgreSQL · WebSockets.
+ 
+**[multitenant-saas-starter](https://github.com/mirzazaman/multitenant-saas-starter)**
+Multi-tenant SaaS boilerplate with schema-per-tenant isolation and RBAC. Next.js · FastAPI · PostgreSQL.
+ 
+---
+ 
+## Stack
+ 
+`Next.js` `FastAPI` `PostgreSQL` `React Native` `TypeScript`
+`OpenAI API` `LangChain` `WebSockets` `Redis` `Docker`
+`Three.js` `Remotion` `Prisma` `AWS S3` `Vercel`
+ 
+---
+ 
+## Background
+ 
+4+ years building web and mobile products at [Techloset](https://github.com/techloset), Faisalabad.
+20+ projects shipped · 15+ client engagements · Led a team of 4 engineers.
+Implemented AI-assisted engineering workflows that reduced delivery cycles by ~40%.
+ 
+---
+ 
+## Get in touch
+ 
+- Portfolio: [mzaman.is-a.dev](https://mzaman.is-a.dev)
+- LinkedIn: [linkedin.com/in/zaman-dev](https://linkedin.com/in/zaman-dev)
+- Email: mirzazaman828@gmail.com
+ 
 
 
 
-
-
-[repo]: https://github.com/mirzazaman?tab=repositories
